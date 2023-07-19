@@ -18,7 +18,7 @@ Important to Note:
 
 Download .exe:
 =========
-
+https://github.com/Norm-Reeves/goto-powershell-audit/releases/download/v1.0/goto-powershell-audit.exe
 
 Change Log:
 ============
