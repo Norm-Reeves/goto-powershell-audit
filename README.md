@@ -16,7 +16,7 @@ Important to Note:
 =========
 • Script/.exe does not need to be elevated to work unless ExchangeOnlineManagement module is not installed.
 
-Download .exe
+Download .exe:
 =========
 
 
