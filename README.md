@@ -1,6 +1,7 @@
 # goto-powershell-audit
 
 PowerShell script that audits GoToConnect for our standards.
+
 Audit Details:
 =========
 User Audit
